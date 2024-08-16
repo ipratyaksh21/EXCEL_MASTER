@@ -3,16 +3,16 @@
 
 **_Objective_**
 
-**_ To analyze sales trends over the years and identify factors that drive sales to increase revenue.  
+**_To analyze sales trends over the years and identify factors that drive sales to increase revenue.  
 There are three worksheets: orders, customers, and products._**
 ---
 **_Task_**
 
- **_To create a Dashboard report to analyze the Sales trend over the years.
- Find Sales by Coffee Types over the period of 4 consecutive years.
- Find the Top Customers.
- Create a line chart to showcase the trends clearly over the years.
- Dashboard must be able to filter by Country, Loyalty Card, Roast Type, and size._**
+ **_To create a Dashboard report to analyze the Sales trend over the years._**
+ **_Find Sales by Coffee Types over the period of 4 consecutive years._**
+ **_Find the Top Customers._**
+ **_Create a line chart to showcase the trends clearly over the years._**
+ **_Dashboard must be able to filter by Country, Loyalty Card, Roast Type, and size._**
 
 --- 
 
@@ -36,9 +36,7 @@ Steps followed as below:
 14. **_Checked the filter connection for proper working._**
 
 ---
-Here is the text formatted for your GitHub README file with the appropriate sections in bold and italic:
 
----
 
 **_Result_**
 
