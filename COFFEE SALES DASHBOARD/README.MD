@@ -1,11 +1,13 @@
 # COFFEE SALES <BR>
 ---
 
+
 **_Objective_**
 
-**_To analyze sales trends over the years and identify factors that drive sales to increase revenue.  
-There are three worksheets: orders, customers, and products._**
+**_To analyze sales trends over the years and identify factors that drive sales to increase revenue._**  
+**_There are three worksheets: orders, customers, and products._**
 ---
+
 **_Task_**
 
  **_To create a Dashboard report to analyze the Sales trend over the years._**
