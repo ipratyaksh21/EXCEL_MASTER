@@ -1,25 +1,21 @@
 # COFFEE SALES <BR>
-Here is the text from the image formatted for a GitHub README file with the specified sections in bold and italic:
-
 ---
 
 **_Objective_**
 
-To analyze sales trends over the years and identify factors that drive sales to increase revenue.  
-There are three worksheets: orders, customers, and products.
+**_ To analyze sales trends over the years and identify factors that drive sales to increase revenue.  
+There are three worksheets: orders, customers, and products._**
 
 **_Task_**
 
-- To create a Dashboard report to analyze the Sales trend over the years.
+- **_To create a Dashboard report to analyze the Sales trend over the years.
 - Find Sales by Coffee Types over the period of 4 consecutive years.
 - Find the Top Customers.
 - Create a line chart to showcase the trends clearly over the years.
-- Dashboard must be able to filter by Country, Loyalty Card, Roast Type, and size.
+- Dashboard must be able to filter by Country, Loyalty Card, Roast Type, and size._**
 
 --- 
-Here is the text formatted for your GitHub README file with the appropriate sections in bold and italic:
 
----
 
 **_Action_** 
 Steps followed as below:
@@ -38,6 +34,23 @@ Steps followed as below:
 12. **_Updated pivot table and data source._**
 13. **_Created the dashboard. Inserted the slicers: Size, Roast type, Country, and Loyalty Card along with timeline._**
 14. **_Checked the filter connection for proper working._**
+
+---
+Here is the text formatted for your GitHub README file with the appropriate sections in bold and italic:
+
+---
+
+**_Result_**
+
+**_Dynamic Dashboard was created, showing the Sales trend of coffee type over years through a line chart._**  
+**_Top Customers and Coffee Type Quantity sold by Roast type using Bar charts._**  
+**_Analysis was dynamic using slicers and timeline, providing clear performance insights over the years._**  
+**_Created pivot tables for detailed information such as:_**
+
+- **_Coffee Type Sales Over Time_**
+- **_Country vs Total Sales_**
+- **_Top 5 Customers_**
+- **_Coffee Types vs Total Quantity_**
 
 ---
 
